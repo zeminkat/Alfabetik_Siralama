@@ -1,6 +1,6 @@
 # Alfabetik_Siralama
 
-Python programlama dilinde halihazırda var olan sorted isimli fonksiyonu kendim tanımlamak için daha doğrusu karakter verilerini sıralarken kendi sıralama fonksiyonumu geliştirmek için yazılan kod parçacığı.
+Python programlama dilinde halihazırda var olan sorted isimli fonksiyonu kendim tanımlamak için daha doğrusu karakter verilerini verilen bir alfabeye sıralarken kendi sıralama fonksiyonumu geliştirmek için yazılan kod parçacığı.
 
 Öğrencilerle Türkçe Kelimeleri sıralama etkinlikleri yaparken güdülemek için kullanılması amacı taşımaktadır.
 
