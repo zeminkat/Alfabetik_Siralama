@@ -6,5 +6,3 @@ Python programlama dilinde halihazırda var olan sorted isimli fonksiyonu kendim
 
 Örneğin: "Alfabetik sıralama veya genel olarak sıralama günlük hayatta ne işimize yarar? Binlerce ismin,puanın vb. niteliklerin bulunduğu bir listeyi sıralamak için
 yazılımlar kullanılır. Bu yazılımların temeli aslında ilkokulda öğrendiğimiz alfabetik sıralama,sayıları büyükten küçüğe sıralama gibi konularla ilişkilidir." gibi ifadelerle öğrencilerin dikkati konuya çekilip okulda elde edilen kazanımların beceriye dönüşerek günlük hayat içerisinde bir çok alanda kullanıldığını fark etmeleri sağlanabilir.
-
-Not: Kullanımı için iletişime geçebilirsiniz.
